@@ -1,0 +1,52 @@
+#EXTM3U
+
+Perú TV online:
+#EXTINF: -1 ,Willax
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmqIa1PltDzk4q7KHVNg7Amk)/dm/3/x7x4dgx/s/live-2.m3u8
+
+#EXTINF: -1 ,Exitosa
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
+
+#EXTINF: -1 ,Panamericana
+https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFq-E9ByuLndnC7gSOJYi46c)/dm/3/x774s7s/s/live-0.m3u8
+
+#EXTINF: -1 ,TV Perú Noticias
+
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+
+
+
+España TV online:
+#EXTINF: -1 ,TeleMadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+
+
+Argentina TV online:
+#EXTINF: -1 ,13 Max
+
+http://coninfo.net:1935/13maxhd/live_720p/playlist.m3u8
+
+
+
+México TV online:
+#EXTINF: -1 ,Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+
+#EXTINF: -1 ,Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF: -1 ,Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+
+#EXTINF: -1 ,Milenio
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+
+#EXTINF: -1 ,Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+
+#EXTINF: -1 ,Canal Once IPN
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF: -1 ,Canal 4
+http://162.241.190.126:1935/live/canal4/playlist.m3u8
